@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Lecturer and Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Summer CS program for Ethiopian high school students"
+permalink: /teaching/2019-addiscoder
+venue: "AddisCoder"
+date: 2018-07-01
+location: "Addis Ababa, Ethiopia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Created curriculum, gave lectures, and worked individually with students in summer computer science course for 180 top Ethiopian high school students
+* Led 40 teaching assistants in course planning, curriculum development, and student instruction Was promoted to lecturer part-way through the program
