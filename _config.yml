@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hailey James"
   avatar           : "profile_700kb.jpg"
-  bio              : "PhD Student at UC San Diego"
+  bio              : "PhD Student at UC San Diego\n she/they"
   location         : "La Jolla, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -101,7 +101,7 @@ author:
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
+  lastfm           : "https://www.linkedin.com/in/hailey-james/"
   linkedin         :
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
