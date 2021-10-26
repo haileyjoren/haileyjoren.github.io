@@ -3,7 +3,7 @@ title: "AddisCoder Lecturer and Teaching Assistant"
 collection: teaching
 type: "AddisCoder"
 permalink: /teaching/2019-summer-addiscoder
-venue: "Addis Ababa, Ethiopia""
+venue: "Addis Ababa, Ethiopia"
 date: 2018-07-01
 location: "Addis Ababa, Ethiopia"
 ---

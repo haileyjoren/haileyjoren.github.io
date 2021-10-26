@@ -2,9 +2,10 @@
 title: "Learning Document Graphs with Attention for Image Manipulation Detection"
 collection: preprints
 permalink: /preprint/2021-05-31-learning-document-graphs-with-attention-for-image-manipulation-detection
-excerpt: 'Proposes a method for document manipulation detection using graph neural networks with attention and specialized pretraining.'
+excerpt: Detecting manipulations in images is becoming increasingly important for combating misinformation and forgery. While recent advances in computer vision have lead to improved methods for detecting spliced images, most state-of-the-art methods fail when applied to images containing mostly text, such as images of documents. We propose a deep-learning method for detecting manipulations in images of documents which leverages the unique structured nature of these images in comparison with those of natural scenes. Specifically, we re-frame the classic image splice detection problem as a node classification problem, in which Optical Character Recognition (OCR) bounding boxes form nodes and edges are added according to an text-specific distance heuristic. We propose a system composed of a Variational Autoencoder (VAE)-based embedding algorithm and a graph neural network with attention, trained end-to-end for robust manipulation detection. Our proposed model outperforms both a state-of-the-art image splice detection method and a document-specific method.
+Recommended citation: Hailey James, Otkrist Gupta, and Dan Raviv. "Learning Document Graphs with Attention for Image Manipulation Detection." preprint.'
 date: 2021-05-31
-venue: 'preprint'
+venue: 'Preprint'
 paperurl: 'https://haileyjames.github.io/files/2021-05-31-learning-document-graphs-with-attention-for-image-manipulation-detection.pdf'
 citation: 'Hailey James, Otkrist Gupta, and Dan Raviv. "Learning Document Graphs with Attention for Image Manipulation Detection." preprint'
 ---
