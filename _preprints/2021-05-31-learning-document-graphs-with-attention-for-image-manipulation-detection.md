@@ -1,7 +1,7 @@
 ---
 title: "Learning Document Graphs with Attention for Image Manipulation Detection"
-collection: publications
-permalink: /publication/2021-05-31-learning-document-graphs-with-attention-for-image-manipulation-detection
+collection: preprints
+permalink: /preprint/2021-05-31-learning-document-graphs-with-attention-for-image-manipulation-detection
 excerpt: 'Proposes a method for document manipulation detection using graph neural networks with attention and specialized pretraining.'
 date: 2021-05-31
 venue: 'preprint'
