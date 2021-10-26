@@ -11,12 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.A. in Computer Science, Harvard College, 2019, Cum Laude in Field
-  * Relevant Coursework: Advanced Topics in Data Science; Intro to Machine Learning; Critical Thinking in Data Science; Data Science I; Research Topics in Human-Computer Interaction; Probability; Theory of Networks; Theory of Computation; Programming Fundamentals; Functional Programming; Linear Algebra; Privacy and Technology; Discrete Mathematics
-  * Project Websites: [Dog Breed Classification](https://hljames.github.io/dog-breed-classification/ "Dog Breed Classification"), [Interpretable Cancer Diagnosis](https://hljames.github.io/cancer-diagnosis/)
 * Ph.D in Computer Science, University of California San Diego (in progress)
   * Advisor: [Berk Ustun](https://www.berkustun.com/)
   * Research Topics: Human-Centered Machine Learning, Participatory Design, Fairness, Interpretabilty
+  
+* B.A. in Computer Science, Harvard College, 2019, Cum Laude in Field
+  * Relevant Coursework: Advanced Topics in Data Science; Intro to Machine Learning; Critical Thinking in Data Science; Data Science I; Research Topics in Human-Computer Interaction; Probability; Theory of Networks; Theory of Computation; Programming Fundamentals; Functional Programming; Linear Algebra; Privacy and Technology; Discrete Mathematics
+  * Project Websites: [Dog Breed Classification](https://hljames.github.io/dog-breed-classification/ "Dog Breed Classification"), [Interpretable Cancer Diagnosis](https://hljames.github.io/cancer-diagnosis/)
 
 Work Experience
 ======
