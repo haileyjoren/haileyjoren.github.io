@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Full CV [here](https://haileyjames.github.io/files/hailey_james_cv.pdf)
+
 Education
 ======
 * Ph.D in Computer Science, University of California San Diego (in progress), GPA 4.0/4.0
