@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year PhD student at UC San Diego advised by [Berk Ustun](https://www.berkustun.com/). I'm broadly interested in questions related to human-centered AI, explainability, and human-AI collaboration. Topics I've been investigating lately include:
+I'm a PhD student at UC San Diego advised by [Berk Ustun](https://www.berkustun.com/). I'm broadly interested in questions related to human-centered AI, explainability, and human-AI collaboration. Topics I've been investigating lately include:
 
 - participatory systems: how can we design interpretable machine learning systems that minimize data collection and maximize fairness and predictive performance? (e.g., in healthcare [James et al 2022 NeurIPS TSRML Workshop](https://haileyjames.github.io/files/2022-10-03-participatory-systems.pdf))
 - uncertainty-aware interventions: how can we leverage uncertainty quantification in scaling interpretable models? 
