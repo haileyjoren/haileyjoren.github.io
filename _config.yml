@@ -80,13 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name: |
-    Hailey Joren
-    Prev: Hailey James
+  name: "Hailey Joren<br>Prev: Hailey James"
   avatar: "profile_700kb.jpg"
-  bio: |
-    PhD Student at UCSD
-    she/her
+  bio: "PhD Student at UCSD<br>she/her"
   location: "La Jolla, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
