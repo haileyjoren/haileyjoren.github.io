@@ -1,13 +1,10 @@
 ---
+layout: archive
+title: "Name"
 permalink: /name/
-title: "Name Change"
-excerpt: "Name Change"
 author_profile: true
-redirect_from: 
-  - /name/
-  - /name_change/
-  - /name.html
-  - /name_change.html
+redirect_from:
+  - /name_change
 ---
 
 **Who is Hailey James?**
