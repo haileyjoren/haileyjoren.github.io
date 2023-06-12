@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+#   - title: "Publications"
+#     url: /publications/
 
-  - title: "Preprints"
+  - title: "Publication & Preprints"
     url: /preprints/
 
 #   - title: "Talks"
@@ -20,6 +20,9 @@ main:
     
   - title: "CV"
     url: /cv/
+    
+- title: "Name Change"
+    url: /name/
     
 #   - title: "Guide"
 #     url: /markdown/
