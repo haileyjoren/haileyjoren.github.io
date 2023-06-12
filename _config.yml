@@ -80,7 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name: "Hailey Joren<br><a href="https://haileyjoren.github.io/name/">Prev: Hailey James</a>"
+  name: "Hailey Joren<br>Prev: Hailey James"
+#   name: "Hailey Joren<br><a href="https://haileyjoren.github.io/name/">Prev: Hailey James</a>"
   avatar: "profile_700kb.jpg"
   bio: "PhD Student at UCSD<br>she/her"
   location: "La Jolla, CA"
