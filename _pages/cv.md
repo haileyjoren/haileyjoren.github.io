@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full CV [here](https://haileyjames.github.io/files/hailey_james_cv.pdf)
+Full CV [here](https://haileyjoren.github.io/files/hailey_joren_cv.pdf)
 
 Education
 ======
