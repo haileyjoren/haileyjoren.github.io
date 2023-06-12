@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /name_change
 ---
+{% include base_path %}
 
 **Who is Hailey James?**
 James is my given name, Joren is my married name. I recently changed my name, so most of my publications are still listed under Hailey James.
