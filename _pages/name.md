@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Name"
+title: "Name Change"
 permalink: /name/
 author_profile: true
 redirect_from:
