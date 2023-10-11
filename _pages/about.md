@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a third-year PhD student at UC San Diego advised by [Berk Ustun](https://www.berkustun.com/). I research how we can build and understand human-centered AI using tools like uncertainty quantification, interpretability, and generative modeling. Topics I've been investigating lately include:
 
-- minimizing data collection: how can we design interpretable machine learning systems that minimize data collection and maximize fairness and predictive performance? (see [Participatory Personalization in Classification NeurIPS 2023 (spotlight)](https://arxiv.org/abs/2302.03874))
+- minimizing data collection: how can we design interpretable machine learning systems that minimize data collection and maximize fairness and predictive performance? (see [Participatory Personalization in Classification NeurIPS 2023 Spotlight](https://arxiv.org/abs/2302.03874))
 - building data-efficient systems: how can we use domain-specific data to build more efficient and less data-hungry diffusion models? (see [DYffusion: A Dynamics-informed Diffusion Model for Spatiotemporal Forecasting NeurIPS 2023](https://arxiv.org/abs/2306.01984))
 - uncertainty-aware interventions: how can we leverage uncertainty quantification in scaling interpretable models? (preprint coming soon!)
 - training for task relevance: how can we bias generative and graph-based models to prioritize the features human reviewers think are most important? (see [Learning Document Graphs with Attention for Image Manipulation Detection ICPRAI 2022](https://link.springer.com/chapter/10.1007/978-3-031-09037-0_22))
