@@ -13,7 +13,7 @@ name                     : &name "Hailey Joren"
 description              : &description "PhD Student at UCSD"
 url                      : "https://haileyjoren.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "haileyjoren.github.io"
+repository               : "haileyjoren/haileyjoren"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name: "Hailey Joren<br>Prev: Hailey James"
+  name: "Hailey Joren"
 #   name: "Hailey Joren<br><a href="https://haileyjoren.github.io/name/">Prev: Hailey James</a>"
   avatar: "profile_700kb.jpg"
   bio: "PhD Student at UCSD<br>she/her"
