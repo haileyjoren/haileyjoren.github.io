@@ -29,7 +29,9 @@ Choosing a name for marriage is a difficult decision with no single right answer
 decision for my spouse and me, but there's no perfect or obvious choice. Our priorities included having a single, unhyphenated name for our family and children while still 
 honoring each of our families and our own identities. We didn't mind 
 having conversations with curious family and friends and resigned ourselves to a more involved and expensive legal 
-process. Many states allow name blending at the time of marriage, but since we changed ours later, we were required to 
+process. 
+
+Many states allow name blending at the time of marriage, but since we changed ours later, we were required to 
 go through a court name change. Besides the initial change through the court, the rest of the process is the same for
 anyone changing their name for marriage or other reasons.
 From a professional perspective, women and transgender scientists have fortunately paved the way such that changing one's 
