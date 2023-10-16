@@ -60,8 +60,8 @@ Workshop on Human-Centric Machine Learning at NeurIPS 2019
 ### Graduate Women in Computing (GradWIC) Mentorship Director
 I run the GradWIC a mentorship program. With over 150 participants, I match incoming students from underrepresented backgrounds with experienced
 graduate student mentors and supervise mentorship across all mentor pairings. 
-As a member of the GradWIC board, I support the organization of events and workshops for
-the UCSD computing community, with a focus on supporting women and underrepresented groups.
+<!---As a member of the GradWIC board, I support the organization of events and workshops for
+the UCSD computing community, with a focus on supporting women and underrepresented groups.--->
 
 
 ### Teaching
