@@ -56,7 +56,7 @@ A Participatory Approach to AI for Mental Health Workshop at NeurIPS 2022\
 **Hailey Joren**, David Alvarez-Melis\
 Workshop on Human-Centric Machine Learning at NeurIPS 2019
 
-## Service and Teaching
+## Academic Service and Teaching
 ### Graduate Women in Computing (GradWIC) Mentorship Director
 I run the GradWIC a mentorship program. With over 150 participants, I match incoming students from underrepresented backgrounds with experienced
 graduate student mentors and supervise mentorship across all mentor pairings. 
