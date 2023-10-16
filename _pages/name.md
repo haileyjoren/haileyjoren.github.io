@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 **Who is Hailey James?**
-James is my given name and Joren is my married name. Some of my publications or other works may still be
+James is my given name and Joren is my married name. Some of my publications or other work may still be
 listed under Hailey James.
 
 **Why Joren?**
