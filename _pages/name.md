@@ -19,10 +19,10 @@ follow our family tradition of "generational naming," in which a new generation 
 family name that reflects their history and values. Both of our great-great-grandfathers followed this tradition, and it 
 is one we're excited to revive.
 
-<! -- **Why change your name now?**
+<!--- **Why change your name now?**
 We put off the decision of our names by hyphenating our names socially and keeping our given names professionally, but 
 we knew we would eventually like to combine our names for a single family name. The right timing ended up being now that
-I'm publishing more in my PhD and gaining more visibility. -->
+I'm publishing more in my PhD and gaining more visibility.--->
 
 **Is it hard to change your name? Do you have any advice?**
 Choosing a name for marriage is a difficult decision with no single right answer. Blending our names was the right
