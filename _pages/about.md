@@ -18,11 +18,6 @@ I'm a third-year PhD student at UC San Diego advised by [Berk Ustun](https://www
 -->
 I earned a bachelor's degree in Computer Science at Harvard. After graduation I worked as a Machine Learning Research Engineer, first at Lendbuzz, a startup dedicated to increasing access to financial services, and then at Twitter Cortex. Outside of research, you can find me training for my next triathlon, open-water swimming, or working in my garden.
 
-## Preprints
-
-[Classification with Conceptual Safeguards](https://haileyjoren.github.io/files/conceptual_safeguards.pdf)\
-**Hailey Joren**, Charles T. Marx, Berk Ustun
-
 ## Publications
 [Participatory Personalization in Classification](https://arxiv.org/abs/2302.03874)\
 **Hailey Joren**, Chirag Nagpal, Katherine Heller, Berk Ustun\
@@ -44,6 +39,11 @@ International Journal on Document Analysis and Recognition (IJDAR) 2022
 [Printing and Scanning Investigation for Image Counter Forensics](https://arxiv.org/abs/2005.02160)\
 **Hailey Joren**, Otkrist Gupta, Dan Raviv\
 EURASIP Journal on Image and Video Processing 2021
+
+## Preprints
+
+[Classification with Conceptual Safeguards](https://haileyjoren.github.io/files/conceptual_safeguards.pdf)\
+**Hailey Joren**, Charles T. Marx, Berk Ustun
 
 ## Workshop Papers
 
