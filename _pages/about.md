@@ -50,7 +50,7 @@ Workshop on Human-Centric Machine Learning at NeurIPS 2019
 
 ## Academic Service and Teaching
 ### Graduate Women in Computing (GradWIC) Mentorship Director
-I run the GradWIC a mentorship program. With over 150 participants, I match incoming students from underrepresented backgrounds with experienced
+I run the GradWIC mentorship program. With over 150 participants, I match incoming students from underrepresented backgrounds with experienced
 graduate student mentors and supervise mentorship across all mentor pairings. 
 <!---As a member of the GradWIC board, I support the organization of events and workshops for
 the UCSD computing community, with a focus on supporting women and underrepresented groups.--->
@@ -65,7 +65,7 @@ I am currently a **teaching assistant** for CSE258: Recommendation System and We
 taught by [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/).
 
 During college, I served as a **Harvard Patel Fellow**, the recipient of a fellowship that allowed me 
-to work with teaching staff to support students of diverse backgronds and work individually with students in an
+to work with teaching staff to support students of diverse backgrounds and work individually with students in an
 introductory computer science course.
 
 ### Reviewing
@@ -80,7 +80,7 @@ introductory computer science course.
 
 
 
-<!-- I'm a first-year PhD Student at UC San Diego advised by [Berk Ustun](https://www.berkustun.com/). My research interests include human-centered machine learning, participatory design, fairness, and interpretabilty. I investigate challenges related to deploying robust and fair machine learning models for real-world problems.  -->
+<!-- I'm a first-year PhD Student at UC San Diego advised by [Berk Ustun](https://www.berkustun.com/). My research interests include human-centered machine learning, participatory design, fairness, and interpretability. I investigate challenges related to deploying robust and fair machine learning models for real-world problems.  -->
 
 <!--- minimizing data collection: how can we design interpretable machine learning systems that minimize data collection and maximize fairness and predictive performance? (see [Participatory Personalization in Classification NeurIPS 2023 Spotlight](https://arxiv.org/abs/2302.03874))
 - building data-efficient systems: how can we use domain-specific data to build more efficient and less data-hungry diffusion models? (see [DYffusion: A Dynamics-informed Diffusion Model for Spatiotemporal Forecasting NeurIPS 2023](https://arxiv.org/abs/2306.01984))
