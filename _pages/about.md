@@ -11,6 +11,11 @@ redirect_from:
 I'm a third-year PhD student at UC San Diego, advised by [Berk Ustun](https://www.berkustun.com/). I work on optimization, interpretability, and uncertainty quantification for deep learning and generative modeling, with applications in healthcare, physical science, and finance. I earned a bachelor's degree in Computer Science at Harvard and have industry machine learning experience at Twitter, Meta, and Lendbuzz. Outside of research, you can find me training for my next triathlon, cycling around San Diego, or working in my garden.
 
 ## Publications
+
+[Classification with Conceptual Safeguards](https://openreview.net/forum?id=t8cBsT9mcg)\
+**Hailey Joren**, Charles T. Marx, Berk Ustun\
+ICLR 2024
+
 [Participatory Personalization in Classification](https://arxiv.org/abs/2302.03874)\
 **Hailey Joren**, Chirag Nagpal, Katherine Heller, Berk Ustun\
 NeurIPS 2023\
@@ -31,11 +36,6 @@ International Journal on Document Analysis and Recognition (IJDAR) 2022
 [Printing and Scanning Investigation for Image Counter Forensics](https://arxiv.org/abs/2005.02160)\
 **Hailey Joren**, Otkrist Gupta, Dan Raviv\
 EURASIP Journal on Image and Video Processing 2021
-
-## Preprints
-
-[Classification with Conceptual Safeguards](https://haileyjoren.github.io/files/conceptual_safeguards.pdf)\
-**Hailey Joren**, Charles T. Marx, Berk Ustun
 
 ## Workshop Papers
 
@@ -61,7 +61,7 @@ the UCSD computing community, with a focus on supporting women and underrepresen
 I volunteered as a **lecturer and teaching assistant** for [AddisCoder](https://www.addiscoder.com/), a summer program that teaches computer science to high school 
 students in Ethiopia. 
 
-I am currently a **teaching assistant** for CSE258: Recommendation System and Web Mining, 
+I served as a **teaching assistant** for CSE258: Recommendation System and Web Mining, 
 taught by [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/).
 
 During college, I served as a **Harvard Patel Fellow**, the recipient of a fellowship that allowed me 
@@ -70,7 +70,6 @@ introductory computer science course.
 
 ### Reviewing
 
-- ICLR 2024
 - NeurIPS 2023
 - NeurIPS 2022
 
