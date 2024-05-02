@@ -12,7 +12,7 @@ I'm a third-year PhD student at UC San Diego, advised by [Berk Ustun](https://ww
 
 ## Publications
 
-[Classification with Conceptual Safeguards](https://openreview.net/forum?id=t8cBsT9mcg)\
+[Classification with Conceptual Safeguards](https://haileyjoren.github.io/files/conceptual_safeguards.pdf)\
 **Hailey Joren**, Charles T. Marx, Berk Ustun\
 ICLR 2024
 
