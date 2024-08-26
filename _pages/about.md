@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year PhD student at UC San Diego, advised by [Berk Ustun](https://www.berkustun.com/). I work on optimization, interpretability, and uncertainty quantification for deep learning and generative modeling, with applications in healthcare, physical science, and finance. I earned a bachelor's degree in Computer Science at Harvard and have industry machine learning experience at Twitter, Meta, and Lendbuzz. Outside of research, you can find me training for my next triathlon, cycling around San Diego, or working in my garden.
+I'm a PhD student at UC San Diego, advised by [Berk Ustun](https://www.berkustun.com/). I work on alignment, safety, interpretability, and uncertainty quantification for deep learning and generative modeling, with applications in healthcare, physical science, and finance. I earned a bachelor's degree in Computer Science at Harvard and previously worked in machine learning research at Twitter, Google and Meta.
 
 ## Publications
 
-[Classification with Conceptual Safeguards](https://haileyjoren.github.io/files/conceptual_safeguards.pdf)\
+[Classification with Conceptual Safeguards](https://openreview.net/forum?id=t8cBsT9mcg)\
 **Hailey Joren**, Charles T. Marx, Berk Ustun\
 ICLR 2024
 
