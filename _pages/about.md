@@ -8,9 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student at UC San Diego, advised by [Berk Ustun](https://www.berkustun.com/). I work on alignment, safety, interpretability, and uncertainty quantification for deep learning and generative modeling, with applications in healthcare, physical science, and finance. I earned a bachelor's degree in Computer Science at Harvard and previously worked in machine learning research at Twitter, Google and Meta.
+I'm a fourth-year PhD student at UC San Diego, advised by [Berk Ustun](https://www.berkustun.com/). My research focuses on making generative models and ML systems more reliable, interpretable, and human-aligned. 
+
+My work includes:
+- **Augmented Generation Systems**: retrieval-augmented generation (RAG) for LLMs, structured inductive biases for diffusion models
+- **Human-interactive Systems**: concept-bottleneck models (CBMs), privacy-preserving models for healthcare
+- **Document Analysis and Security**: adversarial robustness, graph-neural networks for document manipulation detection
+
+## Education
+
+**Harvard College**, B.A. in Computer Science, 2019
+
+**UC San Diego**, PhD in Computer Science and Engineering, 2021-present
+
+## Work Experience
+
+**Google Research**, Student Researcher, 2024
+
+**Meta**, PhD Research Intern, 2024
+
+**Twitter**, Machine Learning Research Engineer, 2021
+
+**Lendbuzz** (fintech startup), Machine Learning Research Engineer, 2019-2021
 
 ## Publications
+
+[Sufficient Context: A New Lens on Retrieval Augmented Generation Systems}](https://haileyjoren.github.io/files/sufficient_context.pdf)\
+**Hailey Joren**, Jianyi Zhang, Chun-Sung Ferng, Da-Cheng Juan, Ankur Taly, Cyrus Rashtchian\
+Under Review
 
 [Classification with Conceptual Safeguards](https://openreview.net/forum?id=t8cBsT9mcg)\
 **Hailey Joren**, Charles T. Marx, Berk Ustun\
@@ -37,8 +62,6 @@ International Journal on Document Analysis and Recognition (IJDAR) 2022
 **Hailey Joren**, Otkrist Gupta, Dan Raviv\
 EURASIP Journal on Image and Video Processing 2021
 
-## Workshop Papers
-
 [Participatory Systems for Personalized Prediction](https://nips.cc/virtual/2022/workshop/49984)\
 **Hailey Joren**, Chirag Nagpal, Katherine Heller, Berk Ustun\
 A Participatory Approach to AI for Mental Health Workshop at NeurIPS 2022\
@@ -50,11 +73,8 @@ Workshop on Human-Centric Machine Learning at NeurIPS 2019
 
 ## Academic Service and Teaching
 ### Graduate Women in Computing (GradWIC) Mentorship Director
-I run the GradWIC mentorship program. With over 150 participants, I match incoming students from underrepresented backgrounds with experienced
-graduate student mentors and supervise mentorship across all mentor pairings. 
-<!---As a member of the GradWIC board, I support the organization of events and workshops for
-the UCSD computing community, with a focus on supporting women and underrepresented groups.--->
-
+I ran the GradWIC mentorship program. With over 150 participants, I match incoming students from underrepresented backgrounds with experienced
+graduate student mentors and supervise mentorship across all mentor pairings.
 
 ### Teaching
 
@@ -69,24 +89,7 @@ to work with teaching staff to support students of diverse backgrounds and work 
 introductory computer science course.
 
 ### Reviewing
-
+- ICLR 2024
 - NeurIPS 2023
 - NeurIPS 2022
 
-
-
-
-
-
-
-<!-- I'm a first-year PhD Student at UC San Diego advised by [Berk Ustun](https://www.berkustun.com/). My research interests include human-centered machine learning, participatory design, fairness, and interpretability. I investigate challenges related to deploying robust and fair machine learning models for real-world problems.  -->
-
-<!--- minimizing data collection: how can we design interpretable machine learning systems that minimize data collection and maximize fairness and predictive performance? (see [Participatory Personalization in Classification NeurIPS 2023 Spotlight](https://arxiv.org/abs/2302.03874))
-- building data-efficient systems: how can we use domain-specific data to build more efficient and less data-hungry diffusion models? (see [DYffusion: A Dynamics-informed Diffusion Model for Spatiotemporal Forecasting NeurIPS 2023](https://arxiv.org/abs/2306.01984))
-- uncertainty-aware interventions: how can we leverage uncertainty quantification in scaling interpretable models? (preprint coming soon!)
-- training for task relevance: how can we bias generative and graph-based models to prioritize the features human reviewers think are most important? (see [Learning Document Graphs with Attention for Image Manipulation Detection ICPRAI 2022](https://link.springer.com/chapter/10.1007/978-3-031-09037-0_22))
-- fairness in NLP: how can we use distribution information and probabilistic modeling to reduce bias in NLP tasks? (see [Probabilistic Bias Mitigation in Word Embeddings Neurips HCML Workshop 2020](https://arxiv.org/abs/1910.14497))
--->
-
-<!-- I'm a first-year PhD Student at UC San Diego advised by Berk Ustun. 
- -->
