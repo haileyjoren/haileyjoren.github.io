@@ -17,23 +17,23 @@ My work includes:
 
 ## Education
 
-**Harvard College**, B.A. in Computer Science, 2019
+Harvard College:, B.A. in Computer Science, 2019
 
-**UC San Diego**, PhD in Computer Science and Engineering, 2021-present
+UC San Diego: PhD in Computer Science and Engineering, 2021-present
 
 ## Work Experience
 
-**Google Research**, Student Researcher, 2024
+Google Research: Student Researcher, 2024
 
-**Meta**, PhD Research Intern, 2024
+Meta: PhD Research Intern, 2024
 
-**Twitter**, Machine Learning Research Engineer, 2021
+Twitter: Machine Learning Research Engineer, 2021
 
-**Lendbuzz** (fintech startup), Machine Learning Research Engineer, 2019-2021
+Lendbuzz (fintech startup): Machine Learning Research Engineer, 2019-2021
 
 ## Publications
 
-[Sufficient Context: A New Lens on Retrieval Augmented Generation Systems}](https://haileyjoren.github.io/files/sufficient_context.pdf)\
+[Sufficient Context: A New Lens on Retrieval Augmented Generation Systems](https://haileyjoren.github.io/files/sufficient_context.pdf)\
 **Hailey Joren**, Jianyi Zhang, Chun-Sung Ferng, Da-Cheng Juan, Ankur Taly, Cyrus Rashtchian\
 Under Review
 
