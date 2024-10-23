@@ -17,7 +17,7 @@ My work includes:
 
 ## Education
 
-Harvard College:, B.A. in Computer Science, 2019
+Harvard College: B.A. in Computer Science, 2019
 
 UC San Diego: PhD in Computer Science and Engineering, 2021-present
 
