@@ -33,7 +33,7 @@ Lendbuzz (fintech startup): Machine Learning Research Engineer, 2019-2021
 
 ## Publications
 
-[Sufficient Context: A New Lens on Retrieval Augmented Generation Systems](https://haileyjoren.github.io/files/sufficient_context.pdf)\
+[Sufficient Context: A New Lens on Retrieval Augmented Generation Systems](https://arxiv.org/abs/2411.06037)\
 **Hailey Joren**, Jianyi Zhang, Chun-Sung Ferng, Da-Cheng Juan, Ankur Taly, Cyrus Rashtchian\
 Under Review
 
