@@ -9,5 +9,5 @@ main:
   - title: "CV"
     url: /files/hailey_joren_cv.pdf
 
-  - title: "Name Change"
-    url: /name/
+  # - title: "Name Change"
+  #   url: /name/
