@@ -34,49 +34,49 @@ Lendbuzz (fintech startup): Machine Learning Research Engineer, 2019-2021
 ## Publications
 
 [Sufficient Context: A New Lens on Retrieval Augmented Generation Systems](https://arxiv.org/abs/2411.06037)\
-Considers RAG performance through the lens of sufficient context and explores methods for improving Large Language Model (LLM) factuality (e.g., selective generation)
+Considers RAG performance through the lens of sufficient context and explores methods for improving Large Language Model (LLM) factuality (e.g., selective generation)\
 **Hailey Joren**, Jianyi Zhang, Chun-Sung Ferng, Da-Cheng Juan, Ankur Taly, Cyrus Rashtchian\
 Under Review
 
 [Classification with Conceptual Safeguards](https://openreview.net/forum?id=t8cBsT9mcg)\
-Introduces conceptual safeguards, a method for selective classification in concept bottleneck models that can reliably promote safety and interpretability in automation tasks using uncertainty propagation
+Introduces conceptual safeguards, a method for selective classification in concept bottleneck models that can reliably promote safety and interpretability in automation tasks using uncertainty propagation\
 **Hailey Joren**, Charles T. Marx, Berk Ustun\
 ICLR 2024
 
 [Participatory Personalization in Classification](https://arxiv.org/abs/2302.03874)\
-Introduces a family of prediction models that preserves privacy while letting individuals opt into personalization at inference time
+Introduces a family of prediction models that preserves privacy while letting individuals opt into personalization at inference time\
 **Hailey Joren**, Chirag Nagpal, Katherine Heller, Berk Ustun\
 NeurIPS 2023\
 *Spotlight Recognition* 
 
 [DYffusion: A Dynamics-informed Diffusion Model for Spatiotemporal Forecasting](https://arxiv.org/abs/2306.01984)\
-Proposes a diffusion model tailored for probabilistic spatiotemporal forecasting with specially-designed temporal forward and reverse processes
+Proposes a diffusion model tailored for probabilistic spatiotemporal forecasting with specially-designed temporal forward and reverse processes\
 Salva Rühling Cachay, Bo Zhao, **Hailey Joren**, Rose Yu\
 NeurIPS 2023
 
 [Learning Document Graphs with Attention for Image Manipulation Detection](https://link.springer.com/chapter/10.1007/978-3-031-09037-0_22)\
-Introduces attention mechanisms for graph anomaly detection using pre-trained variational autoencoder representations with graph neural networks (GNNs)
+Introduces attention mechanisms for graph anomaly detection using pre-trained variational autoencoder representations with graph neural networks (GNNs)\
 **Hailey Joren**, Otkrist Gupta, Dan Raviv\
 ICPRAI International Conference on Pattern Recognition and Artificial Intelligence 2022
 
 [MRZ code extraction from visa and passport documents using convolutional neural networks](https://link.springer.com/article/10.1007/s10032-021-00384-2)\
-Proposes an image segmentation model for MRZ code extraction
+Proposes an image segmentation model for MRZ code extraction\
 Yichuan Liu, **Hailey Joren**, Otkrist Gupta, Dan Raviv\
 International Journal on Document Analysis and Recognition (IJDAR) 2022
 
 [Printing and Scanning Investigation for Image Counter Forensics](https://arxiv.org/abs/2005.02160)\
-Explores adversarial attacks using printing and scanning hardware for document forgery detection 
+Explores adversarial attacks using printing and scanning hardware for document forgery detection\
 **Hailey Joren**, Otkrist Gupta, Dan Raviv\
 EURASIP Journal on Image and Video Processing 2021
 
 [Participatory Systems for Personalized Prediction](https://nips.cc/virtual/2022/workshop/49984)\
-Introduces prediction methods that allow for partial personalization using model multiplicity
+Introduces prediction methods that allow for partial personalization using model multiplicity\
 **Hailey Joren**, Chirag Nagpal, Katherine Heller, Berk Ustun\
 A Participatory Approach to AI for Mental Health Workshop at NeurIPS 2022\
 *Selected for Oral Presentation*
 
 [Probabilistic Bias Mitigation in Word Embeddings](https://arxiv.org/abs/1910.14497)\
-Proposes a method for reducing bias in embeddings for downstream natural language processing (NLP) tasks
+Proposes a method for reducing bias in embeddings for downstream natural language processing (NLP) tasks\
 **Hailey Joren**, David Alvarez-Melis\
 Workshop on Human-Centric Machine Learning at NeurIPS 2019
 
