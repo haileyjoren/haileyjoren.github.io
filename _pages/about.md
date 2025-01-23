@@ -36,7 +36,7 @@ Lendbuzz (fintech startup): Machine Learning Research Engineer, 2019-2021
 [Sufficient Context: A New Lens on Retrieval Augmented Generation Systems](https://arxiv.org/abs/2411.06037)\
 Considers RAG performance through the lens of sufficient context and explores methods for improving Large Language Model (LLM) factuality (e.g., selective generation)\
 **Hailey Joren**, Jianyi Zhang, Chun-Sung Ferng, Da-Cheng Juan, Ankur Taly, Cyrus Rashtchian\
-Under Review
+ICLR 2025
 
 [Classification with Conceptual Safeguards](https://openreview.net/forum?id=t8cBsT9mcg)\
 Introduces conceptual safeguards, a method for selective classification in concept bottleneck models that can reliably promote safety and interpretability in automation tasks using uncertainty propagation\
