@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year PhD student at UC San Diego, advised by [Berk Ustun](https://www.berkustun.com/). My research focuses on making generative models and ML systems more reliable, interpretable, and human-aligned. 
+I'm a final year PhD candidate at UC San Diego, advised by [Berk Ustun](https://www.berkustun.com/). My research focuses on making generative models and ML systems more reliable, interpretable, and human-aligned. 
 
 My work includes:
 - **Augmented Generation Systems**: retrieval-augmented generation (RAG) for LLMs, structured inductive biases for diffusion models
